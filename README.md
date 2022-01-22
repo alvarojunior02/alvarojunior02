@@ -1,16 +1,58 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/64383944/150641882-056dca5a-57e3-42e4-a5b5-e3fe04932de5.png" width="800px"/>
+</div>
 
-<!--
-**alvarojunior02/alvarojunior02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>
+    <b>
+      Olá, seja bem-vindo :wave: Sou o Alvaro Junior.    
+    </b>
+  </h3>
+  
+  <span>
+    React | React Native | HTML | CSS | JavaScipt | TypeScript | Next   
+  </span>
+  
+  <br />
+  <br />
+  
+  <span>
+    <a targe="_blank" href="https://www.linkedin.com/in/alvaro-junior-831299183/">
+      <span>
+         LinkedIn
+      </span>
+    </a>
+    <span>
+      |
+    </span>
+    <a targe="_blank" href="https://mailto:alvaroamcjunior8@gmail.com">
+      <span>
+         alvaroamcjunior8@gmail.com
+      </span>
+    </a>
+    <span>
+      |
+    </span>
+    <a targe="_blank" href="https://www.instagram.com/ajunior_c/">
+      <span>
+         Instagram
+      </span>
+    </a>
+  </span>
+  
+  <br />
+  <br />
+  
+  <span>
+    :pushpin: Cuiabá, Mato Grosso, Brasil.
+  </span>
+  
+  <br />
+  <br />
+  
+  <span>
+    :dart: Sempre buscando por conhecimento.
+  </span>
+</div>
