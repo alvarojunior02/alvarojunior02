@@ -27,11 +27,6 @@
     <span>
       |
     </span>
-    <a targe="_blank" href="https://mailto:alvaroamcjunior8@gmail.com">
-      <span>
-         alvaroamcjunior8@gmail.com
-      </span>
-    </a>
     <span>
       |
     </span>
