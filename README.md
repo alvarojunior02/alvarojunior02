@@ -7,7 +7,7 @@
 <div align="center">
   <h3>
     <b>
-      Olá, seja bem-vindo :wave: Sou o Alvaro Junior.    
+      Olá, seja bem-vindo :wave: <br /> Sou o Alvaro Junior.    
     </b>
   </h3>
   
