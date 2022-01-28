@@ -7,12 +7,19 @@
 <div align="center">
   <h3>
     <b>
-      Olá, seja bem-vindo :wave: <br /> Sou o Alvaro Junior.    
+      Olá, seja bem-vindo! :wave: Hi, welcome! <br /> Sou o Alvaro Junior | I'am Alvaro Junior.    
     </b>
   </h3>
   
   <span>
-    React | React Native | HTML | CSS | JavaScipt | TypeScript | Next   
+    Desenvolvedor Front-end | Front-end Developer 
+  </span>
+  
+  <br />
+  <br />
+  
+  <span>
+    :computer: React | React Native | HTML | CSS | JavaScipt | TypeScript | Next :computer:
   </span>
   
   <br />
@@ -21,7 +28,7 @@
   <span>
     <a targe="_blank" href="https://www.linkedin.com/in/alvaro-junior-831299183/">
       <span>
-         LinkedIn
+        :open_book: LinkedIn
       </span>
     </a>
     <span>
@@ -29,7 +36,7 @@
     </span>
     <a targe="_blank" href="https://www.instagram.com/ajunior_c/">
       <span>
-         Instagram
+         Instagram :open_book:
       </span>
     </a>
   </span>
@@ -38,13 +45,13 @@
   <br />
   
   <span>
-    :pushpin: Cuiabá, Mato Grosso, Brasil.
+    :pushpin: Cuiabá, Mato Grosso, Brasil. :pushpin:
   </span>
   
   <br />
   <br />
   
   <span>
-    :dart: Sempre buscando por conhecimento.
+    :dart: Sempre buscando por conhecimento. | Always looking for knowledge. :dart:
   </span>
 </div>
