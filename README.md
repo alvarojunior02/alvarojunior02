@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/64383944/150641882-056dca5a-57e3-42e4-a5b5-e3fe04932de5.png" width="800px"/>
+  <img src="https://user-images.githubusercontent.com/64383944/151585571-5c68413e-e928-4072-9a47-003282bff05d.png" width="1000px"/>
 </div>
 
 <br />
