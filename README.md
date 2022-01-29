@@ -33,7 +33,7 @@
     
   ## Current Project 
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=marvel-web)](https://github.com/alvarojunior02/marve-web)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=marvel-web)](https://github.com/alvarojunior02/marvel-web)
     
   ## More Informations
     
