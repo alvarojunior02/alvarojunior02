@@ -2,8 +2,6 @@
   <img src="https://user-images.githubusercontent.com/64383944/151585571-5c68413e-e928-4072-9a47-003282bff05d.png" width="1000px"/>
 </div>
 
-<br />
-
 <div>
   <h3>
     <b>
@@ -15,7 +13,6 @@
     Desenvolvedor Front-end | Front-end Developer 
   </span>
   
-  <br />
   <br />
   
   ## Skills
