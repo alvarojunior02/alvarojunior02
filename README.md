@@ -45,12 +45,6 @@
       </span>
     </a>
     <span>
-      |
-    </span>
-    <a targe="_blank" href="https://www.instagram.com/ajunior_c/">
-      <span>
-        Instagram :open_book:
-     </span>
   </a>
 </span>
   
