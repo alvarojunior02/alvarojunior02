@@ -39,9 +39,8 @@
   
   <br />
     
-  ## Current Projects 
+  ## Current Project
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=marvel-web)](https://github.com/alvarojunior02/marvel-web)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=RickAndMorty)](https://github.com/alvarojunior02/RickAndMorty)
     
   ## More Informations
