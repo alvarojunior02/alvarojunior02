@@ -9,7 +9,7 @@
   </h3>
   
   <span>
-    Desenvolvedor Front-end Experiente | Experient Front-end Developer
+    Desenvolvedor Front-end Junior | Junior Front-end Developer
     <br />
     Desenvolvedor Back-end Iniciante | Beginner Back-end Developer
   </span>
