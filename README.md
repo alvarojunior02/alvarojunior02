@@ -11,7 +11,7 @@
   <span>
     Desenvolvedor Front-end Junior | Junior Front-end Developer
     <br />
-    Desenvolvedor Back-end Iniciante | Beginner Back-end Developer
+    Iniciante no Back-end  | Beginner in Back-end
   </span>
   
   <br />
