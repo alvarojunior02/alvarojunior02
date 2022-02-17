@@ -39,9 +39,10 @@
   
   <br />
     
-  ## Current Project
+  ## Current Projects
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=RickAndMorty)](https://github.com/alvarojunior02/RickAndMorty)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=bistroweb)](https://github.com/alvarojunior02/bistroweb)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=bistroapi)](https://github.com/alvarojunior02/bistroapi)
     
   ## More Informations
     
