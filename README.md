@@ -39,10 +39,9 @@
   
   <br />
     
-  ## Current Projects
+  ## Current Project
 
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=bistroweb)](https://github.com/alvarojunior02/bistroweb)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=bistroapi)](https://github.com/alvarojunior02/bistroapi)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=pokedex)](https://github.com/alvarojunior02/pokedex)
     
   ## More Informations
     
