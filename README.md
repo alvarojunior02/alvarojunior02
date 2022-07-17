@@ -25,7 +25,7 @@
   
   # Skills
   <span>
-    :computer: React.js | React Native | HTML | CSS | JavaScipt | TypeScript | Next.js | Node.js | PHP | MySQL :computer:
+    :computer: React.js | React Native | HTML | CSS | JavaScipt | TypeScript | Node.js | TypeORM | MySQL :computer:
   </span>
   
   <br />
@@ -38,10 +38,6 @@
   </div>
   
   <br />
-    
-  ## Current Project
-
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alvarojunior02&repo=pokedex)](https://github.com/alvarojunior02/pokedex)
     
   ## More Informations
     
