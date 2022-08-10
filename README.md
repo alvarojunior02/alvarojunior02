@@ -1,11 +1,74 @@
 # :wave: Hi, Welcome! 
 ### I'm Alvaro Junior. Full-Stack Developer at DomPixel. Graduating in Computer Engineering.
 
-# Some Status
+## :book: Some Status
 
 <a href="https://github.com/alvarojunior02">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alvarojunior02&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojunior02&layout=compact&langs_count=7&theme=dracula"/>
 
-# Technologies
+## :computer: Technologies
+
+<div style="display: flex;">
+	<img src="./react.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./node.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./typescript.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./html5.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./css3.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./javascript.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./php.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./laravel.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./git.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./vscode.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./mysql.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  <img src="./postgresql.svg" width="70" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+</div>
