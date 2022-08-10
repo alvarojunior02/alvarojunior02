@@ -1,60 +1,11 @@
+# :wave: Hi, Welcome! 
+### I'm Alvaro Junior. Full-Stack Developer at DomPixel. Graduating in Computer Engineering.
 
-# Olá, Seja Bem-vindo(a)! | Hi, Welcome!
-<div>
-   
-  <h3>
-    <b>
-      Sou o Alvaro Junior | I'am Alvaro Junior.    
-    </b>
-  </h3>
-  
-  <span>
-    Desenvolvedor Front-end Junior | Junior Front-end Developer
-    <br />
-    Iniciante no Back-end  | Beginner in Back-end
-  </span>
-  
-  <br />
-  <br />
-  
-  <span>
-    :dart: Always looking for knowledge.
-  </span>
-  
-  <br />
-  
-  # Skills
-  <span>
-    :computer: React.js | React Native | HTML | CSS | JavaScipt | TypeScript | Node.js | TypeORM | MySQL :computer:
-  </span>
-  
-  <br />
-  <br />
- 
-  <div>
-    <a href="https://github.com/alvarojunior02">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvarojunior02&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojunior02&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-  
-  <br />
-    
-  ## More Informations
-    
-  <span>
-    <a targe="_blank" href="https://www.linkedin.com/in/alvaro-junior-831299183/">
-      <span>
-        :open_book: LinkedIn
-      </span>
-    </a>
-    <span>
-  </a>
-</span>
-  
-  <br />
-  <br />
-  
-  <span>
-    :pushpin: Cuiabá, Mato Grosso, Brazil.
-  </span>
-</div>
+# Some Status
+
+<a href="https://github.com/alvarojunior02">
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=alvarojunior02&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojunior02&layout=compact&langs_count=7&theme=dracula"/>
+
+# Technologies
