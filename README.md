@@ -3,70 +3,72 @@
 
 ## :book: Some Status
 
-<a href="https://github.com/alvarojunior02">
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=alvarojunior02&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+<div align="center">
+	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=alvarojunior02&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+	<br />
+	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojunior02&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvarojunior02&layout=compact&langs_count=7&theme=dracula"/>
 
 ## :computer: Technologies
 
 <div style="display: flex;">
-	<img src="./react.svg" width="70" style="
+	<img src="./react.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./node.svg" width="70" style="
+  <img src="./node.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./typescript.svg" width="70" style="
+  <img src="./typescript.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./html5.svg" width="70" style="
+  <img src="./html5.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./css3.svg" width="70" style="
+  <img src="./css3.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./javascript.svg" width="70" style="
+  <img src="./javascript.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./php.svg" width="70" style="
+  <img src="./php.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./laravel.svg" width="70" style="
+  <img src="./laravel.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./git.svg" width="70" style="
+  <img src="./git.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./vscode.svg" width="70" style="
+  <img src="./vscode.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./mysql.svg" width="70" style="
+  <img src="./mysql.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  <img src="./postgresql.svg" width="70" style="
+  <img src="./postgresql.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
