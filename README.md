@@ -73,4 +73,9 @@
 		padding: 8px;
 		border-radius: 4px;
 	"/>
+<img src="./aws.svg" width="60" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
 </div>
