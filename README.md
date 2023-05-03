@@ -1,5 +1,5 @@
 # :wave: Hi, Welcome! 
-### I'm Alvaro Junior. Full-Stack Developer at DomPixel. Graduating in Computer Engineering.
+### I'm Alvaro Junior. Full-Stack Developer at NetPixel. Graduating in Computer Engineering.
 
 ## :book: Some Status
 
