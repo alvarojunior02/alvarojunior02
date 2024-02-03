@@ -1,5 +1,5 @@
 # :wave: Hi, Welcome! 
-### I'm Alvaro Junior. Full-Stack Developer at NetPixel.
+### I'm Alvaro Junior. Full-Stack Developer
 
 ## :book: Some Status
 
