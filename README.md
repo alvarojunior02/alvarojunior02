@@ -64,7 +64,7 @@
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  	<img src="./mysql.svg" width="60" style="
+  	<img src="./mysql.svg" width="100" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
