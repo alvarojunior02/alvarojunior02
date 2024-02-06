@@ -14,16 +14,6 @@
 
 
 <div style="display: flex;">
-	<img src="./php.svg" width="60" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
-  	<img src="./laravel.svg" width="60" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
 	<img src="./node.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
@@ -35,6 +25,16 @@
 		border-radius: 4px;
 	"/>
   	<img src="./typescript.svg" width="60" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./php.svg" width="60" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./laravel.svg" width="60" style="
 		margin: 3px;
 		padding: 8px;
 		border-radius: 4px;
