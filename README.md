@@ -59,11 +59,6 @@
 		padding: 8px;
 		border-radius: 4px;
 	"/>
-  	<img src="./vscode.svg" width="60" style="
-		margin: 3px;
-		padding: 8px;
-		border-radius: 4px;
-	"/>
   	<img src="./mysql.svg" width="100" style="
 		margin: 3px;
 		padding: 8px;
