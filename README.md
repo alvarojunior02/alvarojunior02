@@ -36,5 +36,5 @@ I am motivated by problem solving and I am always looking to learn new technolog
 ![AWS](https://img.shields.io/badge/aws_(EC2%2C_RDS%2C_S3)-0c2e40?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Get in touch
-![LinkeIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fimg.shields.io%2Fbadge%2Flinkedin-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite%26link%3Dhttps%253A%252F%252Fwww.linkedin.com%252Fin%252Falvaro-junior-831299183%252F)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-junior-831299183/)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvaroamcjunior8@gmail.com)
