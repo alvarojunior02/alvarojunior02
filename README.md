@@ -1,12 +1,9 @@
 
 :wave: <strong>Olá, sou o Alvaro Junior.</strong>
 ## :open_book: Sobre mim
-Sou um Analista de Sistemas e Desenvolvedor, com foco no backend. Atuo profissionalmente há mais de 2 anos, mas desde 2018 que participo de projetos de pesquisa voluntários, desenvolvedos aplicações para os mais diversos fins.
+Sou Desenvolvedor Full Stack, com foco no backend. Atuo profissionalmente há mais de 2 anos, mas desde 2018 que participo de projetos de pesquisa voluntários, desenvolvedos aplicações para os mais diversos fins.
 <br><br>
 Durante minha carreira acadêmica e profissional, contribui no desenvolvimento de redes sociais (Web e Mobile), E-Commerce's, Sites Administráveis (CMS), API's, integração de sistemas e automatização de serviços.
-<br><br>
-Hoje trabalho como Analista de Sistemas, implementando novas funcionalidades, realizando manutenção em rotinas de sistemas legados, analisando viabildiade de soluções técnicas e contribuindo para a cultura da empresa.
-
 
 ## :computer: Tecnologias e Stacks
 ![PHP](https://img.shields.io/badge/php-7b7fb5?style=for-the-badge&logo=php&logoColor=white)
