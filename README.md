@@ -1,9 +1,9 @@
 
 :wave: <strong>Olá, sou o Alvaro Junior.</strong>
 ## :open_book: Sobre mim
-Desenvolvedor Full Stack, com foco no Backend. Atuo profissionalmente desde 2022, mas desde 2018 tive experiências na área por meio de projetos de pesquisa, desenvolvendo aplicações para os mais diversos fins.
+Desenvolvedor Full Stack, com foco no Backend. Atuo profissionalmente desde 2022, mas foi em 2020 que tive minha primeira experiência desenvolvendo uma aplicação do zero, por meio de um projeto de pesquisa.
 <br><br>
-Durante minha carreira acadêmica e profissional, contribui no desenvolvimento de redes sociais (Web e Mobile), E-Commerce's, Sites Administráveis (CMS), API's, integração de sistemas e automatização de serviços.
+Durante minha carreira acadêmica e profissional, contribui no desenvolvimento de redes sociais (Web e Mobile), E-Commerce's, Sites Administráveis (CMS), API's, integração com sistemas de terceiros e automatização de serviços.
 
 ## :computer: Tecnologias e Stacks
 ![PHP](https://img.shields.io/badge/php-7b7fb5?style=for-the-badge&logo=php&logoColor=white)
