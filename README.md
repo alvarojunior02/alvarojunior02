@@ -1,7 +1,7 @@
 
 :wave: <strong>Olá, sou o Alvaro Junior.</strong>
 ## :open_book: Sobre mim
-Sou Desenvolvedor Full Stack, com foco no backend. Atuo profissionalmente há mais de 2 anos, mas desde 2018 que participo de projetos de pesquisa voluntários, desenvolvedos aplicações para os mais diversos fins.
+Desenvolvedor Full Stack, com foco no Backend. Atuo profissionalmente desde 2022, mas desde 2018 tive experiências na área por meio de projetos de pesquisa, desenvolvendo aplicações para os mais diversos fins.
 <br><br>
 Durante minha carreira acadêmica e profissional, contribui no desenvolvimento de redes sociais (Web e Mobile), E-Commerce's, Sites Administráveis (CMS), API's, integração de sistemas e automatização de serviços.
 
