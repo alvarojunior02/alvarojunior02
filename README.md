@@ -1,9 +1,20 @@
+👋 **Olá, sou o Álvaro Júnior.**
 
-:wave: <strong>Olá, sou o Alvaro Junior.</strong>
-## :open_book: Sobre mim
-Desenvolvedor Full Stack, com foco no Backend. Atuo profissionalmente desde 2022, mas foi em 2020 que tive minha primeira experiência desenvolvendo uma aplicação do zero, por meio de um projeto de pesquisa.
-<br><br>
-Durante minha carreira acadêmica e profissional, contribui no desenvolvimento de redes sociais (Web e Mobile), E-Commerce's, Sites Administráveis (CMS), API's, integração com sistemas de terceiros e automatização de serviços.
+## 📖 Sobre mim
+**Desenvolvedor Web & Social Media**
+
+Atuo profissionalmente como desenvolvedor de softwares desde 2022, mas minha primeira experiência prática aconteceu em 2020, ao desenvolver uma aplicação do zero em um projeto de pesquisa acadêmico.
+
+Em 2025, expandi meus horizontes e comecei a atuar também como Social Media em uma empresa da minha cidade, mergulhando no universo da criação de conteúdo digital.
+
+Ao longo da minha carreira, participei do desenvolvimento de redes sociais (Web e Mobile), e-commerces, sistemas de gerenciamento de conteúdo (CMS), APIs, integrações com sistemas de terceiros e automações de processos.
+
+Atualmente, minhas principais responsabilidades incluem:
+- Gerenciamento de cronogramas de publicações para Instagram e Facebook;
+- Gravação e edição de fotos e vídeos para redes sociais;
+- Elaboração de artes para comunicação visual impressa;
+- Manutenção e atualização do site institucional da empresa;
+- Criação de automações para rotinas manuais repetitivas.
 
 ## :computer: Tecnologias e Stacks
 ![PHP](https://img.shields.io/badge/php-7b7fb5?style=for-the-badge&logo=php&logoColor=white)
