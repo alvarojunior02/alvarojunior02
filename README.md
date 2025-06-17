@@ -1,4 +1,4 @@
-👋 **Olá, sou o Álvaro Júnior.**
+# 👋 **Olá, sou o Álvaro Júnior.**
 
 ## 📖 Sobre mim
 **Desenvolvedor Web & Social Media**
