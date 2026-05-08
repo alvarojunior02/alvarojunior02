@@ -31,5 +31,5 @@ Atualmente, minhas principais responsabilidades incluem:
 ![AWS](https://img.shields.io/badge/aws_(EC2%2C_RDS%2C_S3)-0c2e40?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Entre em contato
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-junior-831299183/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-carneiro-junior-9a376038a/)
 [![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarojunior02.dev@gmail.com)
