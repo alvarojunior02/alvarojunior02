@@ -17,12 +17,14 @@ Atualmente, minhas principais responsabilidades incluem:
 - Criação de automações para rotinas manuais repetitivas.
 
 ## :computer: Tecnologias e Stacks
-![PHP](https://img.shields.io/badge/php-7b7fb5?style=for-the-badge&logo=php&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/laravel-ff3427?style=for-the-badge&logo=Laravel&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-7b7fb5?style=for-the-badge&logo=php&logoColor=white)
+
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/laravel-ff3427?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
