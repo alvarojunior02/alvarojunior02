@@ -1,20 +1,16 @@
 # 👋 **Olá, sou o Álvaro Júnior.**
 
 ## 📖 Sobre mim
-**Desenvolvedor Web & Social Media**
 
-Atuo profissionalmente como desenvolvedor de softwares desde 2022, mas minha primeira experiência prática aconteceu em 2020, ao desenvolver uma aplicação do zero em um projeto de pesquisa acadêmico.
+Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web, APIs, integrações entre sistemas e automações de processos.
 
-Em 2025, expandi meus horizontes e comecei a atuar também como Social Media em uma empresa da minha cidade, mergulhando no universo da criação de conteúdo digital.
+Minha trajetória na área de tecnologia começou em 2020, durante um projeto de pesquisa acadêmico, e desde 2022 atuo profissionalmente com desenvolvimento de software.
 
-Ao longo da minha carreira, participei do desenvolvimento de redes sociais (Web e Mobile), e-commerces, sistemas de gerenciamento de conteúdo (CMS), APIs, integrações com sistemas de terceiros e automações de processos.
+Ao longo da carreira participei da construção e manutenção de redes sociais (Web e Mobile), e-commerces, sistemas de gerenciamento de conteúdo (CMS), APIs REST, integrações com serviços de terceiros e ferramentas internas voltadas para produtividade.
 
-Atualmente, minhas principais responsabilidades incluem:
-- Gerenciamento de cronogramas de publicações para Instagram e Facebook;
-- Gravação e edição de fotos e vídeos para redes sociais;
-- Elaboração de artes para comunicação visual impressa;
-- Manutenção e atualização do site institucional da empresa;
-- Criação de automações para rotinas manuais repetitivas.
+Também possuo experiência complementar em Marketing Digital e Comunicação Visual, tendo atuado com edição de vídeo, design gráfico e produção de conteúdo para redes sociais e materiais impressos.
+
+Atualmente meu foco está no desenvolvimento de software, automação de processos, integração de sistemas e criação de soluções que simplifiquem operações do dia a dia.
 
 ## :computer: Tecnologias e Stacks
 
