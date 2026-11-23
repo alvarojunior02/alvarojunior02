@@ -2,15 +2,9 @@
 
 ## 📖 Sobre mim
 
-Sou Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web, APIs, integrações entre sistemas e automações de processos.
+Estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full Stack estusiasta, com experiência no desenvolvimento de aplicações web, APIs, integrações entre sistemas e automações de processos.
 
-Minha trajetória na área de tecnologia começou em 2020, durante um projeto de pesquisa acadêmico, e desde 2022 atuo profissionalmente com desenvolvimento de software.
-
-Ao longo da carreira participei da construção e manutenção de redes sociais (Web e Mobile), e-commerces, sistemas de gerenciamento de conteúdo (CMS), APIs REST, integrações com serviços de terceiros e ferramentas internas voltadas para produtividade.
-
-Também possuo experiência complementar em Marketing Digital e Comunicação Visual, tendo atuado com edição de vídeo, design gráfico e produção de conteúdo para redes sociais e materiais impressos.
-
-Atualmente meu foco está no desenvolvimento de software, automação de processos, integração de sistemas e criação de soluções que simplifiquem operações do dia a dia.
+Participei da construção e manutenção de redes sociais (Web e Mobile), e-commerces, sistemas de gerenciamento de conteúdo (CMS), APIs REST, integrações com serviços de terceiros e ferramentas internas voltadas para produtividade.
 
 ## 🚀 Projeto em Destaque
 
@@ -68,7 +62,3 @@ Frontend moderno, API própria, controle de usuários, permissões, estatística
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   
 </div>
-
-## Entre em contato
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-carneiro-junior-9a376038a/)
-[![mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarojunior02.dev@gmail.com)
